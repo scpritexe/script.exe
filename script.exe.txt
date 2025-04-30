@@ -602,7 +602,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/verudous/Xero-Hub/mai
                                         })
 
 
-                                        Tabs.Main3:AddButton({
+                                        Tabs.Main4:AddButton({
                                             Title = "Hop Server",
                                             Description = "",
                                             Callback = function()
